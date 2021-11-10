@@ -1,1 +1,1 @@
-# CPU-schedular
+# CPU-scheduler
